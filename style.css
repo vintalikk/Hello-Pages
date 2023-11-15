@@ -19,3 +19,7 @@ h1{
 	margin: 0px 0px;
 	text-align: center;
 }
+.container {
+  transition-property: background-color;
+  transition-duration: 3s;
+}

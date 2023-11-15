@@ -14,7 +14,7 @@ h1{
 	margin: 250px 300px;
 	border-radius: 30px;
 	transition-property: background-color;
-  	transition-duration: 3s;
+  	transition: 3s;
 }
 .container{
 	margin: 0px 0px;

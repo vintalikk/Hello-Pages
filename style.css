@@ -13,9 +13,9 @@ h1{
 	padding: 100px 150px;
 	margin: 250px 300px;
 	border-radius: 30px;
+	transition: 2s;
 }
 .container{
 	margin: 0px 0px;
 	text-align: center;
-	transition: 2s;
 }
